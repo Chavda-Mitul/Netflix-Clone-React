@@ -1,8 +1,10 @@
 import './App.css';
-import Navbar from './component/navbar';
+import Container from './component/container';
 function App() {
   return (
-      <Navbar/>
+    <>
+      <Container/>
+      </>
   );
 }
 
